@@ -1,0 +1,72 @@
+ranks:
+  Fondateur:
+    id: '80'
+    perms: 'nte.fondateur'
+    prefix: '&4[F] &4'
+  Administrateur:
+    id: '81'
+    perms: 'nte.administrateur'
+    prefix: '&4[A] &4'
+  Responsable:
+    id: '82'
+    perms: 'nte.responsable'
+    prefix: '&c[R] &c'
+  Developpeur:
+    id: '83'
+    perms: 'nte.developpeur'
+    prefix: '&5[D] &5'
+  Modérateur:
+    perms: 'nte.modérateur'
+    prefix: '&2[M] &2'
+    id: '84'
+  Helper:
+    Permission: 'nte.helper'
+    prefix: '&a[H] &a'
+    id: '85'
+  Community:
+    perms: 'nte.community'
+    prefix: '&9[CM] &b'
+    id: '86'
+  Partenaire:
+    perms: 'nte.partenaire'
+    prefix: '&d[P] &d'
+    id: '87'
+  Youtubeur+:
+    perms: 'nte.youtubeur+'
+    prefix: '&r[&cY+&r] '
+    id: '88'
+  Youtubeur:
+    perms: 'nte.youtubeur'
+    prefix: '&r[&cY&r] '
+    id: '89'
+  Gardien:
+    perms: 'nte.gardien'
+    prefix: '&6[G] '
+    id: '90'
+  Templier:
+    perms: 'nte.templier'
+    prefix: '&5[T] '
+    id: '91'
+  Empereur:
+    perms: 'nte.empereur'
+    prefix: '&9[E] '
+    id: '92'
+  Paladin:
+    perms: 'nte.paladin'
+    prefix: '&b[P] '
+    id: '93'
+  Chevalier:
+    perms: 'nte.chevalier'
+    prefix: '&3[C] '
+    id: '94'
+  Guerrier:
+    perms: 'nte.guerrier'
+    prefix: '&e[G] '
+    id: '95'
+  Écuyer:
+    perms: 'nte.écuyer'
+    prefix: '&7[É] '
+    id: '96'
+  Default:
+    prefix: '&7[É] '
+    id: '97'

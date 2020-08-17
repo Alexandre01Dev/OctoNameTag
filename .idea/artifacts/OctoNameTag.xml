@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OctoNameTag">
+    <output-path>$PROJECT_DIR$/out/artifacts/OctoNameTag</output-path>
+    <root id="archive" name="OctoNameTag.jar">
+      <element id="module-output" name="NameTag" />
+    </root>
+  </artifact>
+</component>
